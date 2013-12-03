@@ -1,0 +1,91 @@
+<about>
+    <file>record/address/testingTrue.xml</file>
+    <DATE>2013-4-28-16-34-12</DATE>
+    <client>--dialogger-- Version: BETA.0</client>
+    <authors>Lee Meredith</authors>
+    <url>http://www.diamondsandcode.com</url>
+    <github>http://www.diamondsandcode.com</github>
+</about>
+<version>
+    <major>0</major>
+    <minor>6</minor>
+</version>
+<RECORD>
+    <DATE>2013-4-28-16-34-12</DATE>
+    <audio>ELITG.wav</audio>
+    <format>wav</format>
+    <side>NA</side>
+    <artistName>Angry Animator</artistName>
+    <setName>1</setName>
+    <PHRASE>0.000000000</PHRASE>
+    <WORD>0.000000000</WORD>
+    <LETTER>0.000000000</LETTER>
+    <DIALOG>0.000000000</DIALOG>
+    <WORD>923.000000000</WORD>
+    <LETTER>923.000000000</LETTER>
+    <DIALOG>923.000000000</DIALOG>
+    <WORD>1560.000000000</WORD>
+    <LETTER>1560.000000000</LETTER>
+    <DIALOG>1560.000000000</DIALOG>
+    <WORD>1695.000000000</WORD>
+    <LETTER>1695.000000000</LETTER>
+    <DIALOG>1695.000000000</DIALOG>
+    <WORD>2040.000000000</WORD>
+    <LETTER>2040.000000000</LETTER>
+    <DIALOG>2040.000000000</DIALOG>
+    <WORD>2291.000000000</WORD>
+    <LETTER>2291.000000000</LETTER>
+    <DIALOG>2291.000000000</DIALOG>
+    <WORD>2572.000000000</WORD>
+    <LETTER>2572.000000000</LETTER>
+    <DIALOG>2572.000000000</DIALOG>
+    <WORD>3168.000000000</WORD>
+    <LETTER>3168.000000000</LETTER>
+    <DIALOG>3168.000000000</DIALOG>
+    <ENDRECORD>3302.000000000</ENDRECORD>
+    <string>Earthworms Live NA In The NA Ground NA</string>
+    <dialogString>BCDCBFCDCAB CDB A CD CB A BECDCB A</dialogString>
+    <PHRASE>0.000000000</PHRASE>
+    <dialogImage>record/dialog/images/betty/</dialogImage>
+</RECORD>
+<RECORD>
+    <DATE>2013-4-28-16-41-56</DATE>
+    <format>wav</format>
+    <side>NA</side>
+    <audio>HMF.wav</audio>
+    <artistName>Angry Animator</artistName>
+    <setName>1</setName>
+    <string>Hello My Friend AN</string>
+    <dialogString>BCDEF ACD BECDCB A</dialogString>
+    <dialogImage>record/dialog/images/bob_A_F/</dialogImage>
+    <PHRASE>0.000000000</PHRASE>
+    <WORD>0.000000000</WORD>
+    <LETTER>0.000000000</LETTER>
+    <DIALOG>0.000000000</DIALOG>
+    <WORD>454.000000000</WORD>
+    <LETTER>454.000000000</LETTER>
+    <DIALOG>454.000000000</DIALOG>
+    <WORD>762.000000000</WORD>
+    <LETTER>762.000000000</LETTER>
+    <DIALOG>762.000000000</DIALOG>
+    <WORD>1295.000000000</WORD>
+    <LETTER>1295.000000000</LETTER>
+    <DIALOG>1295.000000000</DIALOG>
+    <ENDRECORD>1295.000000000</ENDRECORD>
+</RECORD>
+<RECORD>
+    <DATE>2013-10-17-14-8-4</DATE>
+    <artistName>Angry Animator</artistName>
+    <setName>1</setName>
+    <audio>ELITG.wav</audio>
+    <format>wav</format>
+    <side>NA</side>
+    <string>Earthworms Live NA In The NA Ground NA</string>
+    <dialogString>BCDCBFCDCAB CDB A CD CB A BECDCB A</dialogString>
+    <dialogImage>record/dialog/images/bob_A_F/</dialogImage>
+    <PHRASE>-1</PHRASE>
+    <WORD>-1</WORD>
+    <LETTER>-1</LETTER>
+    <DIALOG>-1</DIALOG>
+    <ENDRECORD>-1</ENDRECORD>
+</RECORD>
