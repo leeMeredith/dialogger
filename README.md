@@ -10,16 +10,18 @@ Dialogger is made with [OpenFrameworks](http://openframeworks.cc/). Dialogger us
 
 Installation
 ------------
-To use dialogger, first you need to download and install [OpenFrameworks](https://github.com/openframeworks/openFrameworks). You can make a copy of /examples/addons/allAddonsExample/ folder then add the “src“ and “data” folder from the dialogger zip for fast FUN.
+To use dialogger, first you need to download and install [OpenFrameworks](https://github.com/openframeworks/openFrameworks). You can make a copy of /examples/addons/allAddonsExample/ folder then add the “src“ and “data” folder from the dialogger zip for fast FUN. 
+Place your six images for the lip-synching in the directory bin/data/record/dialog/images/(yourMouth).
+Place your Audio here bin/data/record/dialog/audio/(yourAudio).
 
 Example
 -------
-[angry animator](http://www.angryanimator.com/word/2010/11/26/tutorial-3-dialog/)
-[Movie Example]()
+[angry animator](http://www.angryanimator.com/word/2010/11/26/tutorial-3-dialog/).
+[Movie Example]().
 
 To Do
 -----------
-MORE
+Add all phonemes defined for speech instead of only using the [Hanna-Barbera](http://en.wikipedia.org/wiki/Hanna-Barbera) mouth shapes.
 
 Recognition
 -----------
