@@ -12,7 +12,7 @@ Installation
 ------------
 To use dialogger, first you need to download and install [OpenFrameworks](https://github.com/openframeworks/openFrameworks). You can make a copy of /examples/addons/allAddonsExample/ folder then add the “src“ and “data” folder from the dialogger zip for fast FUN. 
 Place your six images for the lip-synching in the directory bin/data/record/dialog/images/(yourMouth).
-Place your Audio here bin/data/record/dialog/audio/(yourAudio).
+Place your audio here bin/data/record/dialog/audio/(yourAudio).
 
 Example
 -------
