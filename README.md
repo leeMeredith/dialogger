@@ -16,8 +16,8 @@ Place your audio here bin/data/record/dialog/audio/(yourAudio).
 
 Example
 -------
-[angry animator](http://www.angryanimator.com/word/2010/11/26/tutorial-3-dialog/).
 [Movie Example](https://vimeo.com/82809098).
+[angry animator](http://www.angryanimator.com/word/2010/11/26/tutorial-3-dialog/).
 
 To Do
 -----------
