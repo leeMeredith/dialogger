@@ -164,7 +164,7 @@ void testApp::keyPressed  (int key){
             dialogger_0.isConsecutivePlayBack = !dialogger_0.isConsecutivePlayBack;
         }        
     }
-    dialogger_0.keyPressed(key);
+    if (isDialoggerGuiDraw == true)dialogger_0.keyPressed(key);
     //-----------dialogger-----------_
 }
 
